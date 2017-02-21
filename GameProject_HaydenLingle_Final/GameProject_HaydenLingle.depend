@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1477632457 source:/home/user/Desktop/InClassExamples/GameProject_HaydenLingle/main.cpp
+	"GameFunctions.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<stdexcept>
+
+1477632486 /home/user/Desktop/InClassExamples/GameProject_HaydenLingle/include/GameFunctions.h
+	<iostream>
+
+1477633712 source:/home/user/Desktop/InClassExamples/GameProject_HaydenLingle/src/GameFunctions.cpp
+	"GameFunctions.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

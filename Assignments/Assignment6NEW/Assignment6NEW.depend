@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1477532981 source:/home/user/Desktop/InClassExamples/Assignment6NEW/main.cpp
+	"WeatherForecaster.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<stdexcept>
+
+1476543441 source:/home/user/Desktop/InClassExamples/Assignment6NEW/src/WeatherForecaster.cpp
+	"WeatherForecaster.h"
+	<iostream>
+
+1476498847 /home/user/Desktop/InClassExamples/Assignment6NEW/include/WeatherForecaster.h
+	<iostream>
+
